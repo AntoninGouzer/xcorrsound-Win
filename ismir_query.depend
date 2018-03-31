@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1522530093 source:c:\dev\xcorrsoundwin\libs\core\audiofile.cpp
+	"AudioFile.h"
+	<cstdio>
+	<cstring>
+	<vector>
+	<stdint.h>
+	<iostream>
+	<memory>
+	"my_utils.h"
+
+1479343801 c:\dev\xcorrsoundwin\libs\core\audiofile.h
+	<vector>
+	<cstdio>
+	"stdint.h"
+	<string>
+	"AudioStream.h"
+
+1522530093 c:\dev\xcorrsoundwin\libs\core\audiostream.h
+	<string>
+	<vector>
+	<cstdio>
+	"stdint.h"
+	"my_utils.h"
+
+1479343801 c:\dev\xcorrsoundwin\libs\core\my_utils.h
+	"stdint.h"
+	<string>
+	<vector>
+	<iostream>
+	<sys/time.h>
+	"stdlib.h"
+
+1479343801 source:c:\dev\xcorrsoundwin\libs\core\logstream.cpp
+	"logstream.h"
+	"stdint.h"
+	<iostream>
+	<cstdio>
+
+1479343801 c:\dev\xcorrsoundwin\libs\core\logstream.h
+	"stdint.h"
+	<iostream>
+	<cstdio>
+
+1479343801 source:c:\dev\xcorrsoundwin\libs\core\my_utils.cpp
+	"my_utils.h"
+	<string>
+	<sstream>
+	<cmath>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+	<stdlib.h>
+	<stdio.h>
+	"stdint.h"
+
+1479343801 source:c:\dev\xcorrsoundwin\libs\core\wavstdinreader.cc
+	<cstring>
+	<iostream>
+	<my_utils.h>
+	<stdint.h>
+	<unistd.h>
+	<vector>
+	<wavStdinReader.hh>
+
+1479343801 c:\dev\xcorrsoundwin\libs\core\wavstdinreader.hh
+	<cstring>
+	<iostream>
+	<stdint.h>
+	<unistd.h>
+	<vector>
+
+1522521996 source:c:\dev\xcorrsoundwin\libs\sound_index\fingerprint_db.cc
+	<AudioFile.h>
+	<fingerprint_db.hh>
+	<fingerprint_strategy.hh>
+	<fingerprint_stream.hh>
+	<fstream>
+	<hamming.h>
+	<iostream>
+	<limits>
+	<sstream>
+	<stdint.h>
+	<string>
+	<vector>
+	<memory>
+	<tuple>
+
+1479343801 c:\dev\xcorrsoundwin\libs\sound_index\fingerprint_db.hh
+	<fingerprint_strategy.hh>
+	<map>
+	<string>
+	<vector>
+
+1479343801 c:\dev\xcorrsoundwin\libs\sound_index\fingerprint_strategy.hh
+	<stdint.h>
+	<string>
+	<vector>
+
+1479343801 c:\dev\xcorrsoundwin\libs\sound_index\fingerprint_stream.hh
+	<stdint.h>
+	<vector>
+
+1479343801 c:\dev\xcorrsoundwin\libs\sound_index\hamming.h
+
+1521382629 c:\dev\externalslibs\boost\boost\tuple
+
+1522530674 source:c:\dev\xcorrsoundwin\libs\sound_index\fingerprint_strategy_ismir.cc
+	<AudioFile.h>
+	<cmath>
+	<complex>
+	<computeFFT.h>
+	<cstdlib>
+	<ctime>
+	<fingerprint_strategy.hh>
+	<functional>
+	<sstream>
+	<stdint.h>
+	<string>
+	<sys/time.h>
+	<wavStdinReader.hh>
+	<iomanip>
+	<stdio.h>
+	<stdlib.h>
+
+1521926803 c:\dev\xcorrsoundwin\libs\sound_index\computefft.h
+	<vector>
+	<complex>
+	<fftw3.h>
+
+1469915046 c:\dev\externalslibs\fftw64\include\fftw3.h
+	<stdio.h>
+	<stddef.h>
+
+1521382549 c:\dev\externalslibs\boost\boost\functional
+
