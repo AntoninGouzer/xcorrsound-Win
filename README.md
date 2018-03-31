@@ -1,12 +1,12 @@
-# xcorrsoundWin
+### xcorrsoundWin
 xcorrsound for windows (ismir only)
     
-    Clone of [https://github.com/openpreserve/scape-xcorrsound]
+Clone of [https://github.com/openpreserve/scape-xcorrsound]
     
-    With some modifications taken from [https://github.com/OtagoPolytechnic/SoundSwitch]
+With some modifications taken from [https://github.com/OtagoPolytechnic/SoundSwitch]
     
-    Compiled with CodeBlocks an MinGW 64
+Compiled with CodeBlocks an MinGW 64
     
-    Dependancies:
+### Dependancies:
 * FFTW3 
 * BOOST
